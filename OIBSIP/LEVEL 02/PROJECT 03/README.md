@@ -3,13 +3,13 @@
 In this project, I focused on detecting fraudulent transactions using a real-world credit card dataset. The main goal was to apply machine learning models to identify anomalies that signify fraud in financial systems.
 
 ## 🧠 Tools & Libraries Used:
-Python
+Python,
 Pandas,
-NumPy
+NumPy,
 Matplotlib, 
-Seaborn
-Scikit-learn (Logistic Regression, Decision Tree)
-Jupyter Notebook
+Seaborn,
+Scikit-learn (Logistic Regression, Decision Tree),
+Jupyter Notebook.
 
 ## 🧹 Steps Performed:
 Data Loading & Inspection: Loaded the dataset and verified the shape, missing values, and column details.

@@ -4,10 +4,10 @@ In this project, I focused on detecting fraudulent transactions using a real-wor
 
 ## 🧠 Tools & Libraries Used:
 Python
-
-Pandas, NumPy
-
-Matplotlib, Seaborn
+Pandas,
+NumPy
+Matplotlib, 
+Seaborn
 Scikit-learn (Logistic Regression, Decision Tree)
 Jupyter Notebook
 

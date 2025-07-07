@@ -39,5 +39,8 @@ In this project, I focused on cleaning and preprocessing real-world datasets to 
 * Due to file size limitations, the raw datasets are not uploaded to GitHub.
 * 
   ✅ \[Dataset download links are provided here:
-  1) Housing Dataset - [https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data].
-  2) YouTube Trending Videos Dataset - [https://www.kaggle.com/datasets/datasnaek/youtube-new].
+  1) Housing Dataset - P3D1
+      [https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data].
+  3) YouTube Trending Videos Dataset - P3D2
+     
+[https://www.kaggle.com/datasets/datasnaek/youtube-new].

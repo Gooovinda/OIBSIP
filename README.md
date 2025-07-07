@@ -42,7 +42,7 @@ This repository contains all the projects I completed as part of the **OIBSIP Da
 
   * `README.md` with explanation
   * Python notebooks/scripts
-  * 🛆 Zipped dataset(s) if under GitHub file size limits
-  * 🔗 Dataset links in the README if too large
+  * Dataset links in the README.md
 
-* 📁 Datasets not pushed due to GitHub size restrictions (100MB limit). Links are provided inside each project’s README.
+* 📁 Datasets not pushed due to GitHub size restrictions.
+* Links are provided inside each project’s README.

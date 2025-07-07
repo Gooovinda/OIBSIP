@@ -16,7 +16,7 @@ This repository contains all the projects I completed as part of the **OIBSIP Da
 
 ### 📁 LEVEL 02 – Intermediate Projects
 
-| Project Name | Description                                    ||
+| Project Name | Description                                    |
 | ------------ | ---------------------------------------------- |
 | Project 01   | Predicting House Prices with Linear Regression |
 | Project 02   | Wine Quality Prediction                        |

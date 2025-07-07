@@ -44,5 +44,5 @@ This repository contains all the projects I completed as part of the **OIBSIP Da
   * Python notebooks/scripts
   * Dataset links in the README.md
 
-* 📁 Datasets not pushed due to GitHub size restrictions.
+* Datasets not pushed due to GitHub size restrictions.
 * Links are provided inside each project’s README.

@@ -1,5 +1,5 @@
 📁 Project 05: Wine Quality Prediction
-🔍 Objective:
+## 🔍 Objective:
 In this project, my goal was to build a machine learning model to predict the quality of wine based on its chemical characteristics. This was a great real-world application of classification models and helped deepen my understanding of model comparison, evaluation, and interpretation.
 
 📊 Dataset Used:

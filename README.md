@@ -6,23 +6,23 @@ This repository contains all the projects I completed as part of the **OIBSIP Da
 
 ### 📁 LEVEL 01 – Beginner Projects
 
-| Project Name | Description                                          | Link                                     |
-| ------------ | ---------------------------------------------------- | ---------------------------------------- |
-| Project 01   | Exploratory Data Analysis (EDA) on Retail Sales Data | [View Folder](./LEVEL%2001/PROJECT%2001) |
-| Project 02   | Nutrition Analysis of McDonald's Menu                | [View Folder](./LEVEL%2001/PROJECT%2002) |
-| Project 03   | Data Cleaning Project                                | [View Folder](./LEVEL%2001/PROJECT%2003) |
+| Project Name | Description                                          | 
+| ------------ | ---------------------------------------------------- | 
+| Project 01   | Exploratory Data Analysis (EDA) on Retail Sales Data | 
+| Project 02   | Nutrition Analysis of McDonald's Menu                | 
+| Project 03   | Data Cleaning Project                                | 
 
 ---
 
 ### 📁 LEVEL 02 – Intermediate Projects
 
-| Project Name | Description                                    | Link                                     |
-| ------------ | ---------------------------------------------- | ---------------------------------------- |
-| Project 01   | Predicting House Prices with Linear Regression | [View Folder](./LEVEL%2002/PROJECT%2001) |
-| Project 02   | Wine Quality Prediction                        | [View Folder](./LEVEL%2002/PROJECT%2002) |
-| Project 03   | Fraud Detection                                | [View Folder](./LEVEL%2002/PROJECT%2003) |
-| Project 04   | Analyzing Google Play Store App Market         | [View Folder](./LEVEL%2002/PROJECT%2004) |
-| Project 05   | Autocomplete and Autocorrect Data Analytics    | [View Folder](./LEVEL%2002/PROJECT%2005) |
+| Project Name | Description                                    ||
+| ------------ | ---------------------------------------------- |
+| Project 01   | Predicting House Prices with Linear Regression |
+| Project 02   | Wine Quality Prediction                        |
+| Project 03   | Fraud Detection                                |
+| Project 04   | Analyzing Google Play Store App Market         |
+| Project 05   | Autocomplete and Autocorrect Data Analytics    |
 
 ---
 

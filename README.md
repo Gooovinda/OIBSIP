@@ -9,7 +9,7 @@ This repository contains all the projects I completed as part of the **OIBSIP Da
 | Project Name | Description                                          | 
 | ------------ | ---------------------------------------------------- | 
 | Project 01   | Exploratory Data Analysis (EDA) on Retail Sales Data | 
-| Project 02   | Nutrition Analysis of McDonald's Menu                | 
+| Project 02   | Customer Segmentation Analysis                       | 
 | Project 03   | Data Cleaning Project                                | 
 
 ---

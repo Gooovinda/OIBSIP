@@ -49,8 +49,6 @@ The main objective of this project was to segment customers based on their behav
 
 ## 🔗 Dataset
 
-Dataset used for customer transactions and behavior analysis. *(Upload your dataset separately or provide a link in your repo)*
-
----
+Dataset used for customer transactions and behavior analysis. (ifood_df.scv)
 
 🌟 *This project sharpened my skills in clustering algorithms and real-world customer analytics. It showcased how unsupervised learning can unlock hidden value from data.*
